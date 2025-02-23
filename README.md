@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lavanya Narada
 - 👀 I’m interested in MERN Stack Developer
 - 🌱 I’m currently learning Frontend Technologies
-- 💞️ I’m looking to collaborate on Web Projects to enhance my Skills
+- 💞️ I’m looking to collaborate an open source contributions
 - 📫 You can reach me through :
 -  LinkedIn : https://www.linkedin.com/in/narada-lavanya
 -  Email : lavanyanarada22@gmail.com
